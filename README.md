@@ -1,1 +1,1 @@
-# zluty-pes-2
+# Žlutý Pes - web pro legendární českou kapelu
